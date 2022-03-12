@@ -26,5 +26,5 @@ So I am now a candidate for the Cnam-Enjmin gameplay programmer degree, and I am
   
 <br>
   
-Friend, whoever you are, I wish you love and good wind, but most of all : good game !  
+**Friend, whoever you are, I wish you love and good wind, but most of all : good game !**  
 
