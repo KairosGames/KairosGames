@@ -8,7 +8,7 @@
 # Hello to you dear visitor,  
   
   
-<div style="text-align:justify;">
+
 First of all, I welcome you on my Itch.io (and GitHub) page, and I sincerely hope that you will find pleasure here by playing to my games, because I took care of them for that.  
 
 I am an actor in reconversion in the field of videogame programming. Having tried my hand at several fields, I have what we could call an atypical background that makes me a multi-skilled person.  
@@ -27,4 +27,4 @@ So I am now a candidate for the Cnam-Enjmin gameplay programmer degree, and I am
 <br>
   
 **Friend, whoever you are, I wish you love and good wind, but most of all : good game !**  
-</div>
+
