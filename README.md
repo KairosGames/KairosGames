@@ -24,6 +24,7 @@ So I rolled up my sleeves, and started at the beginning of September 2021 to lea
 So I am now a candidate for the Cnam-Enjmin gameplay programmer degree, and I am looking for a video game studio that would accept to sign a three-year apprenticeship contract with me. If you are, dear reader, possibly an employer looking for an apprentice, I hope that my projects playable on this page will convince you of my skills.  
 
   
+<br>
   
 Friend, whoever you are, I wish you love and good wind, but most of all : good game !  
 
