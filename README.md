@@ -4,7 +4,7 @@
 - 💞️ I'm looking for a studio that would accept to take me on a three-year work-study program, while I complete my degree in video game programming at Cnam-Enjmin.
 - 📫 To contact me : ydrisbenmansour@gmail.com
 #
-![avatar](https://i.ibb.co/3CSykDb/Macaron.png)
+![avatar](https://i.ibb.co/5vLq4QF/Macaron.png)
 #
 # Hello to you dear visitor,  
   
