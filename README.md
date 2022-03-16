@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning programming in the video games field.
 - 💞️ I'm looking for a studio that would accept to take me on a three-year work-study program, while I complete my degree in video game programming at Cnam-Enjmin.
 - 📫 To contact me : ydrisbenmansour@gmail.com
-
+#
+![avatar](https://ibb.co/x7zS3pb)
 #
 # Hello to you dear visitor,  
   
