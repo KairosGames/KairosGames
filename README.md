@@ -20,7 +20,9 @@ After some researchs, I spotted a training program offered by the Cnam-Enjmin No
 
 So I rolled up my sleeves, and started at the beginning of September 2021 to learn to program with the Python language. I had fun making small playful programs but I quickly decided to follow a four-month certification training delivered by *Gaming Campus* (in partnership with *Gamecodeur*) in order to have the necessary level for the Enjmin and a chance to get an apprenticeship contract (this training cost me 2800€, which were at my own expenses). Even though the course was very demanding (not everyone succeeded) - and I had to be careful with tendonitis that can occur when you work more than 13 hours a day without a break at the weekend - I literally loved doing it and discovered a new passion. Today I only want to learn more, if possible from professionals, in order to be able to lead a bigger project one day.  
 
-So I am now a candidate for the Cnam-Enjmin gameplay programmer degree, and I am looking for a video game studio that would accept to sign a three-year apprenticeship contract with me. If you are, dear reader, possibly an employer looking for an apprentice, I hope that my projects playable on this page will convince you of my skills.    
+I finally came in first in my school's competition, and I got my apprenticeship contract. I worked for five months at *Nereid Games*. However, due to the strong recession of the mobile games market, my company had to stop its activities in February 2023 and terminate my contract prematurely.
+
+I am now looking again for a video game studio that would accept to sign an apprenticeship contract with me for the time I have left in my studies and so that I can continue them. If you are, dear reader, possibly an employer looking for an apprentice, I hope that my projects playable on this page will convince you of my skills.
 
   
 <br>
